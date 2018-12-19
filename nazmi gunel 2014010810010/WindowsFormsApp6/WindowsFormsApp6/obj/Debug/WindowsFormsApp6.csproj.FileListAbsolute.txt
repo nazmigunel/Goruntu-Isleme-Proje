@@ -1,0 +1,34 @@
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.xml
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Imaging.xml
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Math.xml
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Video.xml
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\ÇİSİL\Source\Repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.xml
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Imaging.xml
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Math.xml
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Video.xml
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CopyComplete
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\ÇİSİL\Desktop\nazmi gunel 2014010810010\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
